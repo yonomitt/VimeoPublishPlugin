@@ -1,6 +1,6 @@
 # VimeoPublishPlugin
 
-A plugin for [Publish](https://github.com/JohnSundell/Publish) that let's you embed Vimeo videos into your posts.
+A plugin for [Publish](https://github.com/JohnSundell/Publish) that lets you embed Vimeo videos into your posts.
 
 This plugin was inspired by, and heavily borrows ideas from, [Gui Rambo's](https://github.com/insidegui) [TwitterPublishPlugin](https://github.com/insidegui/TwitterPublishPlugin)
 
