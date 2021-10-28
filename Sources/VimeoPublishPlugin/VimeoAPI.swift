@@ -7,6 +7,10 @@
 
 import Foundation
 
+#if canImport(FoundationNetworking)
+import FoundationNetworking
+#endif
+
 struct VimeoAPI {
     enum Endpoint: String {
         case metadata = "https://vimeo.com/api/oembed.json"
