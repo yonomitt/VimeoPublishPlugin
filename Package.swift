@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "VimeoPublishPlugin",
+    platforms: [.macOS(.v12)],
     products: [
         .library(
             name: "VimeoPublishPlugin",
