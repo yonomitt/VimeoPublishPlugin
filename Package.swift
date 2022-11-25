@@ -12,7 +12,7 @@ let package = Package(
             targets: ["VimeoPublishPlugin"])
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.7.0")
+        .package(url: "https://github.com/JohnSundell/Publish.git", from: "0.7.0")
     ],
     targets: [
         .target(
